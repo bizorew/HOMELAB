@@ -1,0 +1,33 @@
+HW: *y - owned, n - plan
+y Open rack 22U - company - bought - price
+y i7 2600K
+y 4x4GB RAM
+y Fatal1ty P67 Professional
+n https://www.asrock.com/mb/intel/fatal1ty%20p67%20professional/#Specification
+n boot stick usb
+n wd green 240GGB boot drives from raid1
+n 4x2.5 SSD to 5.25 Drive <-> https://www.amazon.com/ICY-DOCK-Backplane-Comparable-Tray-less/dp/B00V5JHOXQ?ref_=ast_sto_dp&th=1
+  (most probably not suitable for this build due PCI express limitation
+
+SW:
+CENTOS
+RHEL 8.2 (as a RH developer) - not need basic subscription (not tested)
+USB boot (DVD iso) - https://github.com/FedoraQt/MediaWriter/releases ; https://github.com/FedoraQt/MediaWriter
+
+
+PROCESS:
+
+USE:
+path to RHCA
+
+LINKS:
+MB                <-> https://www.asrock.com/mb/intel/fatal1ty%20p67%20professional/#Specification
+MB manual         <-> https://download.asrock.com/Manual/Fatal1ty%20P67%20Professional.pdf
+MB raid config    <-> https://download.asrock.com/Manual/RAID/Fatal1ty%20P67%20Professional/English.pdf
+Art of Server yt  <-> https://www.youtube.com/channel/UCKHE9DEep52XlmwLbZUKvyw/videos
+HBA overviews yt  <-> https://www.youtube.com/watch?v=hTbKzQZk21w
+RHEL 8 Bare Metal Quick Install         <-> https://developers.redhat.com/rhel8/install-rhel8/
+PERFORMING A STANDARD RHEL INSTALLATION <-> https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/performing_a_standard_rhel_installation/index#making-media_preparing-for-your-installation
+
+BOOKS:
+Structure and Interpretation of Computer Programs <-> https://web.mit.edu/alexmv/6.037/sicp.pdf
